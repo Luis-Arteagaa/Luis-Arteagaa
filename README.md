@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+#
 
 Soy estudiante de **Ingeniería en Computación** enfocado en el **Desarrollo Backend y la Ingeniería de Bases de Datos**. Me apasiona diseñar arquitecturas de datos eficientes, optimizar consultas complejas y resolver problemas lógicos mediante algoritmos avanzados.
 
